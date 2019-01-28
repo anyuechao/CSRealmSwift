@@ -1,0 +1,9 @@
+CSRealmSwift.xcodeproj/xcuserdata/
+CSRealmSwift.xcworkspace/
+Pods/
+*.sup
+Podfile.lock
+.DS_Store
+CSRealmSwift.xcodeproj/project.xcworkspace/xcuserdata/
+
+
