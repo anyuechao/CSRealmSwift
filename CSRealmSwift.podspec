@@ -13,6 +13,6 @@ s.dependency 'ObjectMapper'
 
 s.requires_arc     = true
 s.ios.deployment_target = '8.0'
-s.source_files = 'YCValue/Source/**/*.{swift}'
+s.source_files = 'CSRealmSwift/Source/**/*.{swift}'
 
 end
