@@ -3,7 +3,7 @@ s.name = "CSRealmSwift"
 s.authors = "anyuechao"
 s.homepage = "https://github.com/anyuechao/CSRealmSwift.git"
 s.summary = "CSRealmSwift"
-s.version = "2.0.0"
+s.version = "3.0.0"
 #s.platform = :ios, "8.0"
 s.source = { :git => "https://github.com/anyuechao/CSRealmSwift.git", :tag => s.version }
 
