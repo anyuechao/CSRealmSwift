@@ -17,8 +17,8 @@ class ViewController: UIViewController {
 
         print("main: \(Thread.current)")
 
-                testInsert();
-        CSDBManager.printPathInSimulators()
+//                testInsert();
+//        CSDBManager.printPathInSimulators()
 
         //
                 testQuery();
@@ -27,7 +27,7 @@ class ViewController: UIViewController {
 
         //        testDelete()
 
-        //        self.testClean();
+//                self.testClean();
     }
 
     func testClean() {

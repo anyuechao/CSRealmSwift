@@ -8,8 +8,6 @@ target 'CSRealmSwift' do
 
   #数据存储
   pod 'RealmSwift'
-  #网络请求
-  pod 'Moya', '~> 12.0.1'
   #模型转换
   pod 'ObjectMapper'
 
